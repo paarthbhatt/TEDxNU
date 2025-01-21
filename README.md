@@ -1,2 +1,4 @@
 # TEDxNU
-Thus file includes both the Sponsers & Timeline page
+This file includes:
+1) Sponsers
+2) Timeline page
