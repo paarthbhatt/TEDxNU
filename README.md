@@ -18,4 +18,4 @@ This repository contains the sample pages for the **Sponsors** and **Timeline** 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/tedx-sponsors-timeline.git
+   git clone https://github.com/your-username/tedxnu.git
